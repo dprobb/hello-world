@@ -1,5 +1,6 @@
 hello-world
 ===========
 
-Hello World\n
+Hello World
+
 Inputting new text.
